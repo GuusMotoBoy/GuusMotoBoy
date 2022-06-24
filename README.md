@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GuusMotoBoy
-- 👀  Estudando Ciencia da computação universidade Unisantos
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀  Estudante de Ciencia da computação na Universidade Unisantos
+- 🌱  Aprendendo programação para jogos
+- 💞️ Procuro pela area de programador back-end
+- 📫 Contato via e-mail: gustavoxavi22@gmail.com
 
 <!---
 GuusMotoBoy/GuusMotoBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

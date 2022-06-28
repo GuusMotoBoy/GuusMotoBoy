@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gustav Marcos Xavier
+- 👋 Hi, I’m Gustavo Marcos Xavier
 - 👀  Estudante de Ciencia da computação na Universidade Unisantos
 - 🌱  Aprendendo programação para jogos
 - 💞️ Procuro pela area de programador back-end
